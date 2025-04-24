@@ -1,0 +1,4 @@
+openai
+anthropic
+pyyaml
+requests
